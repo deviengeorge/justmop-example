@@ -1,5 +1,5 @@
 import React from 'react';
-import './Header.js';
+import './Header.css';
 
 import {
 	Container,
@@ -37,7 +37,7 @@ const Header = () => {
 								fontFamily: 'HKGrotesk bold',
 							}}
 						>
-							<NavbarText className='mx-3	login'>
+							<NavbarText className='mx-3 px-2 login'>
 								Login
 								<img
 									width='16'

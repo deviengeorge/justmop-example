@@ -3,12 +3,22 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@mdi/font": "^5.5.55",
+    "@mdi/js": "^5.5.55",
+    "@mdi/react": "^1.4.0",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "bootstrap": "^4.5.2",
+    "pretty-checkbox": "^3.0.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-scripts": "3.4.3",
+    "react-slick": "^0.27.9",
+    "react-step-progress": "^1.0.2",
+    "react-transition-group": "^4.4.1",
+    "reactstrap": "^8.5.1",
+    "swiper": "^6.1.1"
   },
   "scripts": {
     "start": "react-scripts start",

@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import './MobileFooter.css';
 import {
 	Container,
 	Row,
@@ -65,7 +66,7 @@ const MobileFooter = () => {
 						<CardBody>
 							{/* <TextGroup text1='Booking Summary' text2='Close' /> */}
 							<div className='text-group'>
-								<CardTitle className='font-weight-bolder'>
+								<CardTitle className='font-weight-bolder text-dark'>
 									Booking Summary
 								</CardTitle>
 								<CardText onClick={() => setOpen(!open)}>

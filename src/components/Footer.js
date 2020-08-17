@@ -1,5 +1,6 @@
 import React from 'react';
 import { Container, Badge, Row, Col } from 'reactstrap';
+import './Footer.css';
 
 const Footer = () => {
 	const badges = [

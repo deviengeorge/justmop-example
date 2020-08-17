@@ -1,5 +1,6 @@
 import React from 'react';
 import { Badge } from 'reactstrap';
+import './BadgePrice.css';
 
 const BadgePrice = ({ text, active }) => {
 	return (

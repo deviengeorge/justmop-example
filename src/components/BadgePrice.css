@@ -1,0 +1,17 @@
+.badge-price {
+	cursor: pointer;
+	color: #8ca0b3 !important;
+	border: 1px solid #dbdbdb;
+	font-family: 'Open Sans' !important;
+	background-color: transparent !important;
+}
+
+.badge-price:hover {
+	border: 1px solid #b5b5b5;
+}
+
+.active {
+	background-color: #47c6ff !important;
+	border-color: transparent !important;
+	color: #fff !important;
+}

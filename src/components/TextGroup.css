@@ -1,0 +1,7 @@
+.text-group {
+	display: flex;
+	flex-basis: 100%;
+	justify-content: space-between;
+	white-space: nowrap;
+	margin: 2.5px 0;
+}

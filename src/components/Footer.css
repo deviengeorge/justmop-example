@@ -1,0 +1,23 @@
+footer {
+	margin-top: 45px;
+	background-color: #333d47;
+}
+
+footer .badge {
+	cursor: pointer;
+}
+
+.link {
+	text-decoration: none;
+	color: white;
+	transition: 200ms;
+}
+
+.link:hover {
+	text-decoration: none;
+	color: white;
+}
+
+.link-gray {
+	color: #8ca0b3;
+}

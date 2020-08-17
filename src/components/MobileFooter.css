@@ -1,0 +1,8 @@
+.group p {
+	margin: -5px 0 5px 0;
+	padding: 0;
+}
+
+.group p.first {
+	margin: 5px 0 -5px 0;
+}

@@ -1,5 +1,6 @@
 import React from 'react';
 import { CardTitle, CardText } from 'reactstrap';
+import './TextGroup.css';
 
 const TextGroup = ({ text1, text2, blueColor }) => {
 	return (

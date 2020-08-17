@@ -37,7 +37,7 @@ const Header = () => {
 								fontFamily: 'HKGrotesk bold',
 							}}
 						>
-							<NavbarText className='mx-3 px-2 login'>
+							<NavbarText className='mx-3 px-3 login'>
 								Login
 								<img
 									width='16'

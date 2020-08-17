@@ -1,4 +1,4 @@
-import React, { useState, Fragment } from 'react';
+import React, { Fragment } from 'react';
 import Header from './components/Header';
 import {
 	Container,
@@ -12,7 +12,6 @@ import {
 	Button,
 } from 'reactstrap';
 import StepProgressBar from 'react-step-progress';
-// import the stylesheet
 import 'react-step-progress/dist/index.css';
 
 import CustomSlider from './components/CustomSlider';
